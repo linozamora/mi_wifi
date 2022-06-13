@@ -1,0 +1,33 @@
+c:\users\santiago\documents\visual studio 2015\Projects\MiWIFI\MiWIFI\bin\Debug\MiWIFI.exe.config
+c:\users\santiago\documents\visual studio 2015\Projects\MiWIFI\MiWIFI\bin\Debug\MiWIFI.exe
+c:\users\santiago\documents\visual studio 2015\Projects\MiWIFI\MiWIFI\bin\Debug\MiWIFI.pdb
+c:\users\santiago\documents\visual studio 2015\Projects\MiWIFI\MiWIFI\obj\Debug\MiWIFI.csprojResolveAssemblyReference.cache
+c:\users\santiago\documents\visual studio 2015\Projects\MiWIFI\MiWIFI\obj\Debug\MiWIFI.Form1.resources
+c:\users\santiago\documents\visual studio 2015\Projects\MiWIFI\MiWIFI\obj\Debug\MiWIFI.Properties.Resources.resources
+c:\users\santiago\documents\visual studio 2015\Projects\MiWIFI\MiWIFI\obj\Debug\MiWIFI.csproj.GenerateResource.Cache
+c:\users\santiago\documents\visual studio 2015\Projects\MiWIFI\MiWIFI\obj\Debug\MiWIFI.exe
+c:\users\santiago\documents\visual studio 2015\Projects\MiWIFI\MiWIFI\obj\Debug\MiWIFI.pdb
+c:\users\santiago\documents\visual studio 2015\Projects\MiWIFI\MiWIFI\obj\Debug\MiWIFI.Cambiar_Contraseña.resources
+J:\MiWIFI\MiWIFI\bin\Debug\MiWIFI.exe.config
+J:\MiWIFI\MiWIFI\obj\Debug\MiWIFI.exe
+J:\MiWIFI\MiWIFI\obj\Debug\MiWIFI.pdb
+E:\MiWIFI\MiWIFI\bin\Debug\MiWIFI.exe.config
+E:\MiWIFI\MiWIFI\obj\Debug\MiWIFI.exe
+E:\MiWIFI\MiWIFI\obj\Debug\MiWIFI.pdb
+E:\MiWIFI\MiWIFI\bin\Debug\MiWIFI.exe
+E:\MiWIFI\MiWIFI\bin\Debug\MiWIFI.pdb
+E:\MiWIFI\MiWIFI\obj\Debug\MiWIFI.csprojResolveAssemblyReference.cache
+E:\MiWIFI\MiWIFI\obj\Debug\MiWIFI.Cambiar_Contraseña.resources
+E:\MiWIFI\MiWIFI\obj\Debug\MiWIFI.Form1.resources
+E:\MiWIFI\MiWIFI\obj\Debug\MiWIFI.Properties.Resources.resources
+E:\MiWIFI\MiWIFI\obj\Debug\MiWIFI.csproj.GenerateResource.Cache
+G:\MiWIFI\MiWIFI\bin\Debug\MiWIFI.exe.config
+G:\MiWIFI\MiWIFI\obj\Debug\MiWIFI.exe
+G:\MiWIFI\MiWIFI\obj\Debug\MiWIFI.pdb
+G:\MiWIFI\MiWIFI\bin\Debug\MiWIFI.exe
+G:\MiWIFI\MiWIFI\bin\Debug\MiWIFI.pdb
+G:\MiWIFI\MiWIFI\obj\Debug\MiWIFI.csprojResolveAssemblyReference.cache
+G:\MiWIFI\MiWIFI\obj\Debug\MiWIFI.Cambiar_Contraseña.resources
+G:\MiWIFI\MiWIFI\obj\Debug\MiWIFI.Form1.resources
+G:\MiWIFI\MiWIFI\obj\Debug\MiWIFI.Properties.Resources.resources
+G:\MiWIFI\MiWIFI\obj\Debug\MiWIFI.csproj.GenerateResource.Cache
